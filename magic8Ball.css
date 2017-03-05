@@ -1,5 +1,15 @@
 .jumbotron {
-  margin-top: 60px;
+  width: 50%;
+  margin: 0 auto;
+}
+
+button {     
+    margin:0 auto;
+    width: 50%; 
+}
+
+input {
+  width: 50%
 }
 
 .red {
@@ -85,14 +95,8 @@
   
 }
 
-button {
-  margin: 0 auto;
-}
-
-p, input, button {
+p {
   font-family: sans-serif;
   font-size: 15px;
 }
-input {
-  width: 200px;
-}
+
