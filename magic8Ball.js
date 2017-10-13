@@ -22,12 +22,12 @@ $(document).ready(function() {
 
 
 var answers = [
-  'Maybe.', 'Certainly not.', 'I hope so.', 'Not in your wildest dreams.',
-  'There is a good chance.', 'Quite likely.', 'I think so.', 'I hope not.',
-  'I hope so.', 'Never!', 'Fuhgeddaboudit.', 'Ahaha! Really?!?', 'Pfft.',
-  'Sorry, bucko.', 'Hell, yes.', 'Hell to the no.', 'The future is bleak.',
-  'The future is uncertain.', 'I would rather not say.', 'Who cares?',
-  'Possibly.', 'Never, ever, ever.', 'There is a small chance.', 'Yes!'];
+    ["Stay Hungry. Stay Foolish.", "Steve Jobs"],
+    ["Good Artists Copy, Great Artists Steal.", "Pablo Picasso"],
+    ["Argue with idiots, and you become an idiot.", "Paul Graham"],
+    ["Be yourself; everyone else is already taken.", "Oscar Wilde"],
+    ["Simplicity is the ultimate sophistication.", "Leonardo Da Vinci"]
+  ];
 
 // document.getElementById('answerButton').onclick = function () {
 // var answer = answers[Math.floor(Math.random() * answers.length)];
